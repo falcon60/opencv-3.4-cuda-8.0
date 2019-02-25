@@ -4,5 +4,5 @@
 
 Select the below options and download the installer
 
-![CUDA 8.0 Installer] (https://github.com/falcon60/opencv-3.4-cuda-8.0/blob/master/cuda_options.png)
+![CUDA 8.0 Installer](https://github.com/falcon60/opencv-3.4-cuda-8.0/blob/master/cuda_options.png)
 
