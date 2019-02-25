@@ -1,4 +1,4 @@
-# Install Opencv 3.4 with CUDA 8.0 support on Ubuntu 16.04
+# Install Opencv 3.4 with CUDA 8.0 support using Anaconda on Ubuntu 16.04
 
 ## Install CUDA 8.0
 
