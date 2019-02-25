@@ -79,7 +79,7 @@ cmake -D CMAKE_BUILD_TYPE=RELEASE \
       -D WITH_CUBLAS=ON \
       -D WITH_V4L=ON ..
 ```
-Change the Anaconda according to your system
+Change the Anaconda Environment path according to your system
 
 ```bash
 make -j$(nproc)
